@@ -1,0 +1,56 @@
+#entertainment {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#entertainment h2 {
+    padding-top: 16px;
+}
+
+#mario {
+    position: absolute;
+    margin-left: 479px;
+    box-sizing: border-box;
+    height: 483.87px;
+    width: 409.78px;
+}
+
+#entertainment {
+    background-color: #8a4b56;
+}
+
+#entertainment a{
+    background-color: rgb(54, 0, 23);
+}
+
+#technology {
+    background-color: #B0E0E6;
+}
+
+#technology a{
+    background-color: rgb(14, 36, 51);
+}
+
+footer a {
+    margin: 5px 0px;
+    display: flexbox;
+    position: absolute;
+    right: 5%;
+    bottom: -2136px;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    background-color: rgb(14, 36, 51);
+    color: #fff;
+    padding: 8px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#botão_git {
+    margin-top: 15px;
+}
