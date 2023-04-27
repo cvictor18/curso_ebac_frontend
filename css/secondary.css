@@ -33,18 +33,17 @@
 }
 
 footer a {
-    margin: 5px 0px;
     display: flexbox;
-    position: absolute;
-    right: 5%;
-    bottom: -2136px;
+    position: relative;
+    left: 80%;
+    bottom: 58px;
     text-transform: uppercase;
     text-decoration: none;
     color: black;
     font-weight: bold;
     background-color: rgb(14, 36, 51);
     color: #fff;
-    padding: 8px;
+    padding: 8.5px;
 }
 
 footer a:hover {
@@ -53,4 +52,8 @@ footer a:hover {
 
 #botão_git {
     margin-top: 15px;
+}
+
+footer {
+    background-color: #B0E0E6;
 }
